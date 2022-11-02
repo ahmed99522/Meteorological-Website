@@ -1,0 +1,32 @@
+.p
+{
+color:#FF0000
+}
+.a
+{
+background-color:#FF0000;
+color:#FF2d;
+border-radius: 20px;
+font-size: 50px;
+}
+
+.toto
+{
+background-color:#FF0000;
+color: #000000;
+border-radius: 20px;
+font-size: 50px;
+}
+.tb1{border: solid 2px coral;}
+.tb2{border: solid 2px black;}
+.tb3{border: solid 2px blue; 
+background-color: yellow;
+}
+.bd1{
+color:#FF2d;
+font-size: 50px;
+}
+.bd2{
+    color: chartreuse;
+    font-size: larger;
+}
